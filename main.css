@@ -1,0 +1,100 @@
+header{
+	background: url(../images/english.jpg) no-repeat;
+	font-family: Georgia, serif;
+	color: #fff;
+	background-size:cover;
+}
+
+footer{
+	background-color:#4f4f4f;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #fff;
+	
+}
+
+header.jumbotron,
+footer.jumbotron{
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+.container.main{
+	padding: 20px 0;
+	
+	
+}
+.navbar-header{
+	margin-top:-10px;
+	position:absolute;
+	margin-left:-80px;
+}
+
+.wrapper{
+	
+	font-family: Georgia, serif;
+	padding: 20px 0;
+}
+
+
+.inWrap{
+	color:black;
+	background-color:#f9f9f9;
+}
+
+.marg{
+	margin-left:110px;
+}
+
+.inWrap2{
+	background-color:#4f4f4f;
+		
+}
+.CDesign{
+	color:white;
+	background-color:black;
+	padding:20px 0;
+	font-family: Arial, Helvetica, sans-serif;
+	width:40px;
+}
+
+.pak{
+	margin-left:50px;
+	margin-bottom:40px;
+}
+
+
+
+
+.what{
+	margin-left:35%;
+	margin-top:9%;
+	margin-bottom:9%;
+}
+
+.hi{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.ucp{
+	margin-left:41%;
+	margin-top:10%;
+	margin-bottom:15%;
+}
+
+.hello{
+	margin-left:38%;
+	margin-top:5%;
+	margin-bottom:5%;
+}
+
+.cho{
+	margin-left:70%;
+	position:absolute;
+	margin-top:-50px;
+}
+
+
+.navbar-right{
+	margin-left:200px;
+}
+
+
